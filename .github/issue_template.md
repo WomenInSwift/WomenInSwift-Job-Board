@@ -23,6 +23,6 @@
 
 By submitting this issue, you agree to follow our Code of Conduct:
 
-- [ ] I have read the [Contributors' Guide](https://github.com/zero-to-mastery/resources/blob/master/CONTRIBUTING.md).
-- [ ] I have checked the existing [issues](https://github.com/zero-to-mastery/ZtM-Job-Board/issues).
+- [ ] I have read the [Contributors' Guide](https://github.com/WomenInSwift/resources/blob/master/CONTRIBUTING.md).
+- [ ] I have checked the existing [issues](https://github.com/WomenInSwift/WomenInSwift-Job-Board/issues).
 - [ ] I am willing to work on this issue (optional).
